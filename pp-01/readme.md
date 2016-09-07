@@ -26,8 +26,9 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
 3. You can now change directories into `itmd-361-pp` and then the `pp-01` directory, where you 
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and add to it the URL to your fork of the GitHub repository, and the add and commit:
-   
-   My Production Problems repository URL:
+
+
+   My Production Problems repository URL: https://github.com/Solmi/itmd-361-pp
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 

@@ -16,27 +16,23 @@
           <li>Feb 2017</li>
           <li>Information Technology and Management</li>
           <li>Courses :</li>
-          <ul>
-            <li>Linux Development</li>
-            <li>Web Development</li>
-            <li>Android Development</li>
+          <li> - Linux Development</li>
+          <li> - Web Development</li>
+          <li> - Android Development</li>
           </ul>
-        </ul>
         <ul>
           <li>Seoul Women's University</li>
           <li>Aug 2017</li>
           <li>Information Security</li>
           <li>Courses :</li>
-          <ul>
-            <li>C/C++ Development</li>
-            <li>JAVA/Android Development</li>
-            <li>Web Development</li>
-            <li>Data Networking</li>
-            <li>Network Security</li>
-            <li>Malignant code(Malware)</li>
-            <li>Cryptology Base</li>
-            <li>Windows Security & Malware Base</li>
-          </ul>
+          <li> - C/C++ Development</li>
+          <li> - JAVA/Android Development</li>
+          <li> - Web Development</li>
+          <li> - Data Networking</li>
+          <li> - Network Security</li>
+          <li> - Malignant code(Malware)</li>
+          <li> - Cryptology Base</li>
+          <li> - Windows Security & Malware Base</li>
         </ul>
       <h2>History</h2>
         <h3>Seoul Women's University</h3>

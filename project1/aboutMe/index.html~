@@ -20,24 +20,13 @@
             <a href="">temp</a>
           </li>
         </ul>
-      </nav>
-      <h1>About Me</h1>
-      <section class="h-card">
-        <h2 class="p-name">Solmi Choi</h2>
-        <ul class="contact-info" >
-          <li>
-            <a class="u-mail" href="mailto:schoi41@hawk.iit.edu">schoi41@hawk.iit.edu</a>
-          </li>
-          <li class="p-address">3241 S Wabash Ave Chigago, IL 60616</li>
-          <li>
-            <a class="u-url" href="http://www.instagram.com/SSOL.MI/">Instagram link</a>
-          </li>
-        </ul>
-      </section>
     </header>
+   
+    <h1>About Me</h1>
+    <section class="h-card">
+      <h2></h2>
+    </section>
 
-    <main>
-    </main>
 
 
   </body>

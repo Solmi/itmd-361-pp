@@ -8,10 +8,10 @@
   <body>
     <header>
       <h2>Solmi Choi</h2>
-        <nav class=navbar">
+        <nav class="navbar">
           <ul>
             <li>
-              <a href="/aboutME">AboutME</a>
+              <a href="/aboutMe">AboutME</a>
             </li>
             <li>
               <a href="/resume">RESUME</a>
@@ -20,12 +20,12 @@
               <a href="">temp</a>
             </li>
           </ul>
-        <nav>
-    </hearder>
+        </nav>
+    </header>
     <footer>
       Site Design by Solmi Choi.
       Copyright Solmi Choi All rights reserved.
     </footer>
-    </body>
+  </body>
 </html>	
 			

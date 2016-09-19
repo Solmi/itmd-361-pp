@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Travle</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
+    <style>
+      img, video{
+        display: block;
+        max-width: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav class="navbar">
+        <ul>
+          <li>
+            <a href="../index.html">Homepage</a>
+          </li>
+          <li>
+            <a href="../aboutMe">AboutMe</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <article class="chicagotour">
+        <h2>Chicago Night Tour</h2>
+        <figure>
+          <img src="image/chicago_city_sep_17_2016.jpg" alt="chicagotour">
+          <figcaption>This was taken picture at Chicago in Sep/17/2016<figcation>
+        </figure>
+        <figure class="video">
+          <video controls="controls">
+            <source src="video/buckingham_fountain.mp4" type="video/mp4" /> 
+          </video>
+        </figure>
+      </article>
+
+
+
+    </main>
+    <footer>
+      <p>Site design, what little there is, by Solmi Choi</p>
+    </footer>
+  </body>
+</html>

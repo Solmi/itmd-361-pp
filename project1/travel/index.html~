@@ -20,7 +20,7 @@
             <a href="../index.html">Homepage</a>
           </li>
           <li>
-            <a href="../aboutMe">AboutMe</a>
+            <a href="../aboutMe/index.html">AboutMe</a>
           </li>
         </ul>
       </nav>
@@ -36,7 +36,14 @@
         <figure class="video">
           <video controls="controls">
             <source src="video/buckingham_fountain.mp4" type="video/mp4" /> 
+            <p>
+              Download the Video in
+              <a href="video/buckingham_fountain.mp4">MPEG</a> format.
+            </p>
           </video>
+          <figcaption>
+            <p>Chicago Big Bus Night Tour</p>
+          </figcation>
         </figure>
       </article>
 

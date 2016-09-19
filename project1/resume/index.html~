@@ -11,10 +11,13 @@
       <nav class="navbar">
         <ul>
           <li>
-            <a href="/index.html">Homepage</a>
+            <a href="../index.html">Homepage</a>
           </li>
           <li>
-            <a href="/aboutMe">AboutMe</a>
+            <a href="../resume/index.html">Resume</a>
+          </li>
+          <li>
+            <a href="../aboutMe/index.html">AboutMe</a>
           </li>
           <li>
             <a href="">temp</a>
@@ -23,7 +26,7 @@
       </nav>
       <section>
         <h1 class="p-name">Solmi Choi</h1>
-          <ul>
+          <ul class="contact-info" >
             <li> 
               <a class="u-mail" href="mailto:schoi41@hawk.iit.edu">schoi41@hawk.iit.edu</a>
             </li>

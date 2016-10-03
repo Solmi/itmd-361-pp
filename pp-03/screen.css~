@@ -15,8 +15,12 @@ html { /* pp03 - 2 */
   line-height: 1.411em;  /* 24px/17px */
 }
 
+html { /* pp03 - 3 */
+  font-size: 1.125em; /* 18px/16px */
+  padding: 0.75em 0.375em 0.75em 0.375em; /* T R B L */
+}
+
 html {
-  padding: 1.5em 0.33em 1,5em 0.33em;
 }
 
 

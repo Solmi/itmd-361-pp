@@ -1,10 +1,55 @@
-/* http://meyerweb.com/eric/tools/css/reset/
+/* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
-/* stylelint-disable */
-/* Keep reset CSS to one minified line */
+/* stylelint-disable*/
 a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 /* stylelint-enable */
 
+/*
+  Setting type to a minor third modular
+  http://www.modularscale.com/
+*/
+
 /* ===== BASE STYLES ===== */
+
+h1 {
+  font-size: 2.531em;  
+  line-height: 2.25em;
+  padding: 1em 1em 1em 1em;
+}
+h2 {
+  font-size: 1.688em;
+  line-height: 1.5em;
+  padding: 1em 1em 1em 1em;
+}
+body {
+  font-size: 1.125em;
+  line-height: 1em;
+  padding: 1em 1em 1em 1em;
+}
+p {
+  font-size: 1.0625em;
+  line-height: 1em;
+  padding: 1em 1em 1em 1em;
+}
+ul,
+li {
+  font-size: 1.0625em;
+  line-height: 0.667em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+li:last-child{
+  font-size: 1.0625em;
+  line-height: 0.667em;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+
+/* ===== LAYOUT STYLES ===== */
+
+
+/* ===== MODULAR STYLES ===== */
+
+
+/* ===== STATE STYLES ===== */

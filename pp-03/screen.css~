@@ -12,7 +12,7 @@ html { /* pp03 - 1 */
 
 html { /* pp03 - 2 */
   font-size: 1.0625em; /* 17px/16px */ 
-  line-height: 1.411em;  /* 24px/17px */
+  line-height: 1.5em;  /* 24px/16px */
 }
 
 html { /* pp03 - 3 */

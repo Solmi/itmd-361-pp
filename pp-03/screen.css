@@ -21,8 +21,14 @@ html { /* pp03 - 3 */
 }
 
 html {
+  font-size: 1.125em; /* 18px/16px */
 }
-
+figure {
+  font-size: 0.888em; /* 16px/18px */
+}
+figure h2 {
+  font-size; 1.4375em; /* 23px/16px */
+}
 
 
 /* ===== LAYOUT STYLES ===== */

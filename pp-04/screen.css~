@@ -40,9 +40,7 @@ li {
   padding: 0.5em 0.5em 0.5em 0.5em;
 }
 li:last-child{
-  font-size: 1.0625em;
-  line-height: 0.667em;
-  padding: 0.5em 0.5em 0.5em 0.5em;
+  padding-bottom: 0;
 }
 
 
